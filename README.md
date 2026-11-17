@@ -58,7 +58,7 @@
 |---|---|---|
 | PoloAPI | https://poloai.top | 支持 Claude Code / CodeX，均衡型 |
 | Weelinking | https://www.weelinking.com | 多线路冗余，充值汇率约 0.8 元/美元 |
-| **BullRoute** | https://bullroute.com | OpenAI / Anthropic / Gemini 三协议兼容，50+ 模型，按 token 计费，支持 USDT 自动到账与支付宝；价格与文档公开（[价格](https://bullroute.com/pricing/) / [文档](https://bullroute.com/docs/)） |
+| BullRoute | https://bullroute.com | OpenAI / Anthropic / Gemini 系列模型，按量计费，支持 USDT 与支付宝 |
 | n1n.ai | https://n1n.ai | 低延迟，新手友好 |
 | 灵芽API | https://api.lingyaai.cn | 国内专线，可开票 |
 | Quanzil | https://quanzil.com | 国内直连，全模型支持 |
